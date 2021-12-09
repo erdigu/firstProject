@@ -2,7 +2,8 @@ package firstProject;
 
 public class MasterClass {
 <<<<<<< HEAD
-// added only in master branch not in feature branch. for check how PR merge
+// added only in master branch not in feature branch. for check how PR merge..lets see again
+	
 
 
 	
